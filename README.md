@@ -24,7 +24,7 @@
 - 👨‍🎓 **Computer Science Student @ Benha University**
 - 💻 **Backend Engineer & Full Stack Developer specializing in secure, scalable systems**
 - 🔐 **Security-focused: JWT, OAuth, API security, encryption, and OWASP best practices**
-- 🏗️ **Expert in designing RESTful APIs, microservices, and robust server architectures**
+- 🏗️ **Expert in designing RESTful APIs**
 - 🚀 **Currently mastering the MERN Stack (MongoDB, Express.js, React, Node.js)**
 - 🛡️ **Implementing authentication, authorization, and data protection in every project**
 - 🧩 **Strong problem solver with passion for clean code, architecture patterns, and performance**
