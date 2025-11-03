@@ -28,7 +28,6 @@
 - 🚀 **Currently mastering the MERN Stack (MongoDB, Express.js, React, Node.js)**
 - 🛡️ **Implementing authentication, authorization, and data protection in every project**
 - 🧩 **Strong problem solver with passion for clean code, architecture patterns, and performance**
-- 🤝 **Open source enthusiast — collaborating and building real-world solutions**
 - 📚 **Always learning: System Design, Security, Performance Optimization, and DevOps**
 
 ---
