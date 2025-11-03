@@ -37,7 +37,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-elsayed-496142385" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="mailto:mohamedelsefi11@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="https://t.me/El_Qaadi" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" height="40" /></a>
+  <a href="https://www.instagram.com/muh._.mmedd?igsh=ejd3dHQ3ODcwazFs" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
 </p>
 
 ---
